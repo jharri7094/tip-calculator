@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LabsApp</string>
+    <string name="titlef2c">Convert F to C</string>
+    <string name="titlec2f">Convert C to F</string>
+    <string name="placeholder">Original Temperature</string>
+    <string name="f2c_label">Fahrenheit to Celsius</string>
+    <string name="c2f_label">Celsius to Fahrenheit</string>
+    <string name="convert_btn">Convert</string>
+    <string name="result_label">Result:</string>
+</resources>
